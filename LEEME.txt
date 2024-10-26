@@ -1,0 +1,8 @@
+SISTEMA DE RESERVAS
+
+Lenguaje de programacion: java
+Gestor de base de datos: MySql
+Nombre de BD: Chimbotito
+
+Librerias:
+- Apache POI (version )
